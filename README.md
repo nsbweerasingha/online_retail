@@ -1,4 +1,4 @@
-# Online Retail
+# Customer Churn Prediction & Segmentation for an Online Retailer
 
 1. Introduction
 
